@@ -1,0 +1,19 @@
+{
+    "nome": "Marcelo",
+    "username": "Wirita",
+    "nr_seguidores": 0,
+    "posts": [
+        {
+            "legenda": "Nice",
+            "curtidas": 0
+        },
+        {
+            "legenda": "Legal",
+            "curtidas": 0
+        },
+        {
+            "legenda": "Bueno",
+            "curtidas": 0
+        }
+    ]
+}

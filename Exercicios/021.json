@@ -1,0 +1,15 @@
+{
+    "string": "string",
+    "inteira": 10,
+    "numerica": 11,
+    "vetor_string":[
+        {
+            "string1": "String1"
+        }
+    ],
+    "vetor_objetos":[
+        {
+            "objeto": "objeto"
+        }
+    ]
+}
